@@ -1,3 +1,2 @@
 entry by master
-second line by master
 third line by mstr
